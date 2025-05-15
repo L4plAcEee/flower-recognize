@@ -1,8 +1,9 @@
-/data/
-/reports/
-/static/
 /.idea/
-/models/
+
+/data/*
+/reports/*
+/static/*
+/models/*
 
 /.env
 
