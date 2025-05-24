@@ -2,15 +2,15 @@
 ## 项目目录结构
 ```text
 ROOT/
-├── .idea/                # IDE配置文件夹 <git已排除>
-├── data/                 # 数据集相关文件夹 <git已排除>
-├── meta/                 # 元数据文件夹
-├── models/               # 模型文件 <git已排除>
-├── reports/              # 报告文件夹 <git已排除>
-├── static/               # 静态资源文件夹 <git已排除>
+├── .idea/                # IDE配置文件夹   
+├── data/                 # 数据集相关文件夹   
+├── meta/                 # 元数据文件夹  
+├── models/               # 模型文件   
+├── reports/              # 报告文件夹 
+├── static/               # 静态资源文件夹 
 ├── templates/            # 模板文件夹
 ├── utils/                # 工具模块
-├── .env                  # 环境变量配置文件 <git已排除>
+├── .env                  # 环境变量配置文件
 ├── .env.sample           # 环境变量示例文件
 ├── .gitignore            # Git忽略文件
 ├── app.py                # 主应用入口
